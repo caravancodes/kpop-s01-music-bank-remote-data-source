@@ -1,7 +1,77 @@
 [
   {
-    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/{vol}/",
-    "music_title": "",
-    "music_url": ""
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/03/",
+    "music_title": "boy",
+    "music_url": "boy.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/03/",
+    "music_title": "boy_meets_evil",
+    "music_url": "boy_meets_evil.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/03/",
+    "music_title": "breakthrough",
+    "music_url": "breakthrough.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/03/",
+    "music_title": "breath",
+    "music_url": "breath.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/03/",
+    "music_title": "but_you",
+    "music_url": "but_you.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/03/",
+    "music_title": "butter",
+    "music_url": "butter.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/03/",
+    "music_title": "butter_smooth",
+    "music_url": "butter_smooth.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/03/",
+    "music_title": "candy",
+    "music_url": "candy.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/03/",
+    "music_title": "candy2",
+    "music_url": "candy2.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/03/",
+    "music_title": "candy_sugar_pop",
+    "music_url": "candy_sugar_pop.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/03/",
+    "music_title": "cant_you_see_me",
+    "music_url": "cant_you_see_me.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/03/",
+    "music_title": "celebrate",
+    "music_url": "celebrate.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/03/",
+    "music_title": "celebrity",
+    "music_url": "celebrity.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/03/",
+    "music_title": "cheer_up",
+    "music_url": "cheer_up.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/03/",
+    "music_title": "cheers",
+    "music_url": "cheers.mp3"
   }
 ]

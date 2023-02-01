@@ -1,7 +1,77 @@
 [
   {
-    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/{vol}/",
-    "music_title": "",
-    "music_url": ""
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/02/",
+    "music_title": "aya",
+    "music_url": "aya.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/02/",
+    "music_title": "back_door",
+    "music_url": "back_door.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/02/",
+    "music_title": "bbibbi",
+    "music_url": "bbibbi.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/02/",
+    "music_title": "beatbox",
+    "music_url": "beatbox.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/02/",
+    "music_title": "because",
+    "music_url": "because.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/02/",
+    "music_title": "billion_views",
+    "music_url": "billion_views.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/02/",
+    "music_title": "birthday",
+    "music_url": "birthday.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/02/",
+    "music_title": "black_mamba",
+    "music_url": "black_mamba.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/02/",
+    "music_title": "blessed_cursed",
+    "music_url": "blessed_cursed.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/02/",
+    "music_title": "blood_sweat_tears",
+    "music_url": "blood_sweat_tears.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/02/",
+    "music_title": "blue_hour",
+    "music_url": "blue_hour.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/02/",
+    "music_title": "blue_side",
+    "music_url": "blue_side.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/02/",
+    "music_title": "blueming",
+    "music_url": "blueming.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/02/",
+    "music_title": "boca",
+    "music_url": "boca.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/02/",
+    "music_title": "born_singer",
+    "music_url": "born_singer.mp3"
   }
 ]
