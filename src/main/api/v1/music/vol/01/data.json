@@ -1,7 +1,77 @@
 [
   {
-    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/{vol}/",
-    "music_title": "",
-    "music_url": ""
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/01/",
+    "music_title": "abyss",
+    "music_url": "abyss.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/01/",
+    "music_title": "adios",
+    "music_url": "adios.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/01/",
+    "music_title": "after_like",
+    "music_url": "after_like.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/01/",
+    "music_title": "after_midnight",
+    "music_url": "after_midnight.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/01/",
+    "music_title": "after_school",
+    "music_url": "after_school.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/01/",
+    "music_title": "alcohol_free",
+    "music_url": "alcohol_free.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/01/",
+    "music_title": "angel_or_devil",
+    "music_url": "angel_or_devil.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/01/",
+    "music_title": "answer",
+    "music_url": "answer.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/01/",
+    "music_title": "anti_romantic",
+    "music_url": "anti_romantic.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/01/",
+    "music_title": "antifragile",
+    "music_url": "antifragile.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/01/",
+    "music_title": "any_song",
+    "music_url": "any_song.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/01/",
+    "music_title": "apple",
+    "music_url": "apple.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/01/",
+    "music_title": "arson",
+    "music_url": "arson.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/01/",
+    "music_title": "as_if_its_your_last",
+    "music_url": "as_if_its_your_last.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/01/",
+    "music_title": "attention",
+    "music_url": "attention.mp3"
   }
 ]
