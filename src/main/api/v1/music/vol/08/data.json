@@ -1,7 +1,7 @@
 [
   {
-    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/{vol}/",
-    "music_title": "",
-    "music_url": ""
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/08/",
+    "music_title": "gods_menu",
+    "music_url": "gods_menu.mp3"
   }
 ]

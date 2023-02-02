@@ -1,7 +1,77 @@
 [
   {
-    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/{vol}/",
-    "music_title": "",
-    "music_url": ""
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/07/",
+    "music_title": "fiesta",
+    "music_url": "fiesta.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/07/",
+    "music_title": "film_out",
+    "music_url": "film_out.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/07/",
+    "music_title": "fireworks_im_the_one",
+    "music_url": "fireworks_im_the_one.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/07/",
+    "music_title": "first",
+    "music_url": "first.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/07/",
+    "music_title": "flash",
+    "music_url": "flash.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/07/",
+    "music_title": "flu",
+    "music_url": "flu.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/07/",
+    "music_title": "follow",
+    "music_url": "follow.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/07/",
+    "music_title": "for_youth",
+    "music_url": "for_youth.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/07/",
+    "music_title": "forever",
+    "music_url": "forever.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/07/",
+    "music_title": "from_home",
+    "music_url": "from_home.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/07/",
+    "music_title": "future_perfect_pass_the_mic",
+    "music_url": "future_perfect_pass_the_mic.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/07/",
+    "music_title": "ganadara",
+    "music_url": "ganadara.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/07/",
+    "music_title": "gangnam_style",
+    "music_url": "gangnam_style.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/07/",
+    "music_title": "girls",
+    "music_url": "girls.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/07/",
+    "music_title": "given_taken",
+    "music_url": "given_taken.mp3"
   }
 ]
