@@ -3,5 +3,75 @@
     "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/08/",
     "music_title": "gods_menu",
     "music_url": "gods_menu.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/08/",
+    "music_title": "gogobebe",
+    "music_url": "gogobebe.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/08/",
+    "music_title": "gone",
+    "music_url": "gone.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/08/",
+    "music_title": "gone_sad_version",
+    "music_url": "gone_sad_version.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/08/",
+    "music_title": "good_boy_gone_bad",
+    "music_url": "good_boy_gone_bad.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/08/",
+    "music_title": "guerrilla",
+    "music_url": "guerrilla.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/08/",
+    "music_title": "heart_shaker",
+    "music_url": "heart_shaker.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/08/",
+    "music_title": "hello",
+    "music_url": "hello.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/08/",
+    "music_title": "hello_2",
+    "music_url": "hello_2.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/08/",
+    "music_title": "hello_future",
+    "music_url": "hello_future.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/08/",
+    "music_title": "hey_tayo",
+    "music_url": "hey_tayo.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/08/",
+    "music_title": "hip",
+    "music_url": "hip.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/08/",
+    "music_title": "hold",
+    "music_url": "hold.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/08/",
+    "music_title": "",
+    "music_url": ".mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/08/",
+    "music_title": "home_run",
+    "music_url": "home_run.mp3"
   }
 ]

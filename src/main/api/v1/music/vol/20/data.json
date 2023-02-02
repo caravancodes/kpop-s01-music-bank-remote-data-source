@@ -1,7 +1,67 @@
 [
   {
-    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/{vol}/",
-    "music_title": "",
-    "music_url": ""
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/20/",
+    "music_title": "wildside",
+    "music_url": "wildside.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/20/",
+    "music_title": "wishes",
+    "music_url": "wishes.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/20/",
+    "music_title": "with_you",
+    "music_url": "with_you.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/20/",
+    "music_title": "world",
+    "music_url": "world.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/20/",
+    "music_title": "xoxo",
+    "music_url": "xoxo.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/20/",
+    "music_title": "yao",
+    "music_url": "yao.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/20/",
+    "music_title": "yes_or_yes",
+    "music_url": "yes_or_yes.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/20/",
+    "music_title": "yet_to_come",
+    "music_url": "yet_to_come.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/20/",
+    "music_title": "you_calling_my_name",
+    "music_url": "you_calling_my_name.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/20/",
+    "music_title": "you_never_know",
+    "music_url": "you_never_know.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/20/",
+    "music_title": "young_forever",
+    "music_url": "young_forever.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/20/",
+    "music_title": "young_love",
+    "music_url": "young_love.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/20/",
+    "music_title": "yours",
+    "music_url": "yours.mp3"
   }
 ]

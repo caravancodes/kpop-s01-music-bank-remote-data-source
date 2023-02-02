@@ -1,7 +1,77 @@
 [
   {
-    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/{vol}/",
-    "music_title": "",
-    "music_url": ""
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/12/",
+    "music_title": "luv_u",
+    "music_url": "luv_u.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/12/",
+    "music_title": "mafia_in_the_morning",
+    "music_url": "mafia_in_the_morning.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/12/",
+    "music_title": "magic",
+    "music_url": "magic.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/12/",
+    "music_title": "magic_island",
+    "music_url": "magic_island.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/12/",
+    "music_title": "magic_shop",
+    "music_url": "magic_shop.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/12/",
+    "music_title": "magic_tower",
+    "music_url": "magic_tower.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/12/",
+    "music_title": "magician",
+    "music_url": "magician.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/12/",
+    "music_title": "mago",
+    "music_url": "mago.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/12/",
+    "music_title": "maison",
+    "music_url": "maison.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/12/",
+    "music_title": "maniac",
+    "music_url": "maniac.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/12/",
+    "music_title": "maria",
+    "music_url": "maria.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/12/",
+    "music_title": "mixtape__gone_days",
+    "music_url": "mixtape__gone_days.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/12/",
+    "music_title": "mixtape__oh",
+    "music_url": "mixtape__oh.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/12/",
+    "music_title": "mixtape__on_track",
+    "music_url": "mixtape__on_track.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/12/",
+    "music_title": "mmm",
+    "music_url": "mmm.mp3"
   }
 ]
