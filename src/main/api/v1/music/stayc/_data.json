@@ -1,7 +1,127 @@
 [
   {
     "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/stayc/",
-    "music_title": "",
-    "music_url": ""
+    "music_title": "asap",
+    "music_url": "asap.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/stayc/",
+    "music_title": "asap_japanese_ver",
+    "music_url": "asap_japanese_ver.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/stayc/",
+    "music_title": "beautiful_monster",
+    "music_url": "beautiful_monster.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/stayc/",
+    "music_title": "butterfly",
+    "music_url": "butterfly.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/stayc/",
+    "music_title": "complex",
+    "music_url": "complex.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/stayc/",
+    "music_title": "i_247",
+    "music_url": "i_247.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/stayc/",
+    "music_title": "i_like_it",
+    "music_url": "i_like_it.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/stayc/",
+    "music_title": "i_ll_be_there",
+    "music_url": "i_ll_be_there.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/stayc/",
+    "music_title": "i_want_u_baby",
+    "music_url": "i_want_u_baby.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/stayc/",
+    "music_title": "like_this",
+    "music_url": "like_this.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/stayc/",
+    "music_title": "love",
+    "music_url": "love.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/stayc/",
+    "music_title": "love_fool",
+    "music_url": "love_fool.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/stayc/",
+    "music_title": "poppy_japanese_ver.",
+    "music_url": "poppy_japanese_ver..mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/stayc/",
+    "music_title": "poppy_korean_var",
+    "music_url": "poppy_korean_var.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/stayc/",
+    "music_title": "run2u",
+    "music_url": "run2u.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/stayc/",
+    "music_title": "run2u_remix",
+    "music_url": "run2u_remix.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/stayc/",
+    "music_title": "same_same",
+    "music_url": "same_same.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/stayc/",
+    "music_title": "slow_down",
+    "music_url": "slow_down.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/stayc/",
+    "music_title": "so_bad",
+    "music_url": "so_bad.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/stayc/",
+    "music_title": "so_bad_",
+    "music_url": "so_bad_.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/stayc/",
+    "music_title": "so_what",
+    "music_url": "so_what.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/stayc/",
+    "music_title": "star",
+    "music_url": "star.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/stayc/",
+    "music_title": "stereotype",
+    "music_url": "stereotype.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/stayc/",
+    "music_title": "stereotype",
+    "music_url": "stereotype_.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/stayc/",
+    "music_title": "young_luv",
+    "music_url": "young_luv.mp3"
   }
 ]
